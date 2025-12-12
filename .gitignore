@@ -1,0 +1,7 @@
+.env
+__pycache__/
+chroma_db/
+.vscode/
+mongodb-installer.msi
+*.log
+*.db

@@ -1,0 +1,4 @@
+- [x] Create .env file with MONGO_URI
+- [x] Fix test_mongo.py code errors
+- [ ] Change db access to client["mmr"] since URI lacks default db
+- [ ] Run test_mongo.py to verify MongoDB connection
