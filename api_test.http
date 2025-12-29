@@ -1,0 +1,23 @@
+### Health Check
+GET http://127.0.0.1:8000/
+Accept: application/json
+
+
+### Search API
+POST http://127.0.0.1:8000/search
+Content-Type: application/json
+
+{
+  "query": "technology market trends",
+  "k": 3
+}
+
+
+### Generate API
+POST http://127.0.0.1:8000/generate
+Content-Type: application/json
+
+{
+  "query": "technology market trends",
+  "k": 3
+}

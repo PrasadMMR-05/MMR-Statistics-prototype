@@ -1,0 +1,9 @@
+sentence-transformers
+chromadb
+transformers
+torch
+fastapi
+uvicorn
+pymongo
+python-dotenv
+sentencepiece
